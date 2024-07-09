@@ -1,13 +1,12 @@
 # Classification des Sentiments avec BERT
 
-## Table des Matières
+
 1. [Introduction](#introduction)
 2. [Données](#données)
 3. [Entraînement du Modèle](#entraînement-du-modèle)
 4. [Évaluation](#évaluation)
 5. [Résultats](#résultats)
-6. [Usage](#usage)
-7. [Conclusion](#conclusion)
+
 
 ## Introduction
 Ce projet vise à démontrer l'utilisation de BERT pour la classification des sentiments dans un ensemble de données de textes. BERT est un modèle de langage puissant développé par Google, et nous ajoutons une couche linéaire sur le modèle pré-entraîné pour adapter le modèle à notre tâche spécifique de classification.
