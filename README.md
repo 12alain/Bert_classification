@@ -1,6 +1,6 @@
 # Classification des Sentiments avec BERT
 
-
+## Table des Matières
 1. [Introduction](#introduction)
 2. [Données](#données)
 3. [Entraînement du Modèle](#entraînement-du-modèle)
@@ -51,3 +51,11 @@ Le modèle est évalué en utilisant les métriques de précision (accuracy) et 
 Les résultats de l'entraînement montrent une diminution de la perte d'entraînement au fil des époques, mais la perte de validation reste élevée, indiquant un possible surapprentissage. Les mesures de précision et de perte sont rapportées pour chaque époque.
 
 ### Exemple de Résultats
+- **Précision sur l'ensemble de test** : 60%
+- **Perte sur l'ensemble de test** : 0.35
+
+Vous pouvez télécharger le dataset utilisé pour ce projet en suivant ce lien : [Télécharger le dataset](https://drive.google.com/file/d/1VwvYyvVpULGqFtLCvvII-fPVq6dRuvMs/view?usp=drive_link)
+
+Les poids du modèle entraîné peuvent être téléchargés ici : [Télécharger les poids du modèle](https://drive.google.com/file/d/1DAaj_jdl4rVNoJauOy3XTDPFMQf03nSH/view?usp=sharing)
+
+
